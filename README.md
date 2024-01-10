@@ -1,1 +1,1 @@
-Official Github repository of Defit's site
+Official Github repository of Defit's Box website
