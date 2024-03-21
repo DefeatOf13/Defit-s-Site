@@ -1,3 +1,3 @@
 # 📦 Defit's Box
 
-Official Github repository of Defit's Box website
+Official Github repository of the *Defit's Box* website
