@@ -47,15 +47,6 @@ body {
     transition: background-color 0.3s;
 }
 
-h3 {
-    color: #ffffff;
-    font-size: 18px;
-    border-radius: 50%;
-    text-align: right;
-    image-align: right;
-    
-}
-
 .source-button:hover {
     background-color: #444;
 }
