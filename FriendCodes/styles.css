@@ -19,9 +19,7 @@ header {
 }
 p {
     color: #ffffff;
-    font-size: 18px;
-    border-radius: 50%;
-    text-align: left;
+    margin: 0;
 }
 
 li {
@@ -106,25 +104,3 @@ img {
     transition: transform .2s;
     
 }
-
-footer {
-    background-color: #333;
-    color: #cec8c8;
-    padding: 20px 0;
-    text-align: center;
-}
-
-.hoverimage:hover {
-    transition: 0.2s ease-in;
-    transform: scale(1.1);
-    }
-
-    body, header {
-        background-repeat: no-repeat;
-        background-size: cover;
-      }
-
-      .icon-container {
-        display: flex;
-        align-items: center;
-      }
