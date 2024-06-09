@@ -38,6 +38,7 @@ body {
     margin: 0;
     padding: 0;
     background-size: cover;
+    background-position: center;
     background-image: url(Wallpaper/Sunset.png);
 }
 
