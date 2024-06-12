@@ -32,10 +32,8 @@ li {
 
 body {
     font-family: 'Montserrat', Arial, sans-serif;
-    background-color: #313131;
     margin: 0;
     padding: 0;
-    background-size: cover;
     background-position: center;
     background-image: url(Sunset.png);
     background-repeat: no-repeat;
