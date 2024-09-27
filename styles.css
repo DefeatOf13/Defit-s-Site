@@ -79,6 +79,10 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    color: #ffffff;
+}
+
 .container {
     max-width: 1400px;
     margin: 0 auto;
